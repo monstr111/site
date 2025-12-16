@@ -1,0 +1,48 @@
+body {
+    background-color: #c9c9c3 ;
+}
+img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+
+}
+section {
+    padding:40px;
+}
+header {
+    margin-bottom:10px;
+}
+div {
+    margin-bottom:5px;
+} 
+.btn {
+    margin-top: 10px;
+    width: 200px;
+    height: 40px;
+    align-content: center;
+    color: #000000;
+    background-color: #858585;
+    border-color: #858585;
+}
+.btn:hover{
+    background-color: #000768;
+    color: #ffffff;
+}
+.nav-link{
+    color: #000000;
+}
+.nav-link:hover{
+    color:#40007c;
+}
+.navbar{
+    height: 50px;
+    
+}
+.nav-item {
+    margin-top: 5px;
+}
+
+.col-8{
+   font-size: 25px;
+}
